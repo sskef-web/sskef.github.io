@@ -1,0 +1,165 @@
+body {
+    box-sizing: border-box;
+    color: #373737;
+    background: #212121;
+    font-size: 16px;
+    font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+    margin: 0 auto;
+}
+
+p img {
+    display: inline;
+    margin: 0;
+    padding: 0;
+    vertical-align: middle;
+    text-align: center;
+    border: none;
+    border: 1px solid black;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin: 5px 0;
+    font-weight: 700;
+    color: #222222;
+    font-family: 'Lucida Grande', 'Calibri', Helvetica, Arial, sans-serif;
+    letter-spacing: -1px;
+}
+
+h3 {
+    font-size: 24px;
+    display: block;
+    font-size: 1.17em;
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    padding:7px;
+    text-align: left;
+}
+
+#main_content_wrap {
+    background: #f2f2f2;
+    text-align: center;
+    box-shadow: #373737;
+}
+
+.outer {
+    width: 100%;
+}
+
+#main_content {
+    padding-top: 40px;
+}
+
+.inner {
+    position: relative;
+    max-width: 640px;
+    padding: 20px 10px;
+    margin: 0 auto;
+}
+
+p{
+    margin: 0;
+    text-align: left;
+}
+
+li {
+    text-align: left;
+}
+
+a {
+    text-align: left;
+}
+
+#header_wrap .inner {
+    padding: 50px 10px 30px 10px;
+}
+
+.inner {
+    position: relative;
+    max-width: 640px;
+    padding: 20px 10px;
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 36px;
+    font-weight: 700;
+}
+
+#project_title {
+    margin: 0;
+    color: #fff;
+    font-size: 42px;
+    font-weight: 700;
+    text-shadow: #111 0px 0px 10px;
+}
+
+#project_tagline {
+    color: #fff;
+    font-size: 24px;
+    font-weight: 300;
+    background: none;
+    text-shadow: #111 0px 0px 10px;
+}
+
+#header_wrap {
+    background: #212121;
+    background: -moz-linear-gradient(top, #373737, #212121);
+    background: -webkit-linear-gradient(top, #373737, #212121);
+    background: -ms-linear-gradient(top, #373737, #212121);
+    background: -o-linear-gradient(top, #373737, #212121);
+    background: linear-gradient(to top, #373737, #212121);
+}
+
+#footer_wrap {
+    background: #212121;
+}
+
+.outer {
+    width: 100%;
+}
+
+.inner {
+    position: relative;
+    max-width: 640px;
+    padding: 20px 10px;
+    margin: 0 auto;
+}
+
+#project_title-two {
+    margin: 0;
+    color: #fff;
+    font-size: 32px;
+    font-weight: 700;
+    text-shadow: #111 0px 0px 10px;
+}
+
+.back {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#interests-p {
+    padding-left: 15px;
+}
+
+.vk {
+    float: right;
+    line-height: 30px;
+    vertical-align: middle;
+    border: 1px solid #2288f5;
+    background-color: #2288f5;
+    width: 90px;
+    height: 30px;
+    color: white;
+}
+
+.vk-button {
+    position: fixed;
+    top: 0px;
+    right: 350px;
+}
